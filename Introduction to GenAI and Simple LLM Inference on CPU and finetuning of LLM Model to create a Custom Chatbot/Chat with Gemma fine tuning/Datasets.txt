@@ -1,0 +1,5 @@
+Datasets used to fine tune the model
+https://huggingface.co/datasets/Abirate/english_quotes
+https://huggingface.co/datasets/facebook/kilt_tasks
+https://huggingface.co/datasets/Amod/mental_health_counseling_conversations
+https://huggingface.co/datasets/PawanKrd/math-gpt-4o-200k

@@ -1,0 +1,6 @@
+langchain
+langchain_community
+streamlit
+ollama
+
+#To use the llama3 model use the command ollama pull llama3
